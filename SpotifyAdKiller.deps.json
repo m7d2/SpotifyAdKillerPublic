@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SpotifyAdKiller/1.0.0": {
+        "dependencies": {
+          "SpotifyAdKiller.ClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SpotifyAdKiller.dll": {}
+        }
+      },
+      "SpotifyAdKiller.ClassLibrary/1.0.0": {
+        "runtime": {
+          "SpotifyAdKiller.ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpotifyAdKiller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpotifyAdKiller.ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
